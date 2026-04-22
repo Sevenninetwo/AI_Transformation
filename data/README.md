@@ -28,13 +28,10 @@ Score each dimension on a 1 to 4 scale per use case. Any use case with a critica
 
 A structural model for how AI programmes should compound over time. The flywheel breaks when organisations treat data as a project input rather than a continuous asset.
 
-\`\`\`mermaid
-flowchart LR
-    A[Better Data] --> B[Better Models]
-    B --> C[Better Decisions]
-    C --> D[Feedback and Iteration]
-    D --> A
-\`\`\`
+| | High Feasibility | → | Low Feasibility | |
+|---|---|---|---|---|
+| **Better Data** | → | **Better Models** | → | **Better Decisions** |
+| ↑ | | **Feedback and Iteration** | | ↓ |
 
 Each cycle of use generates new signal — user behaviour, model errors, edge cases — that feeds back into improving the data and the model. Organisations that build feedback capture into their AI systems from day one compound faster than those that treat deployment as the finish line.
 
