@@ -2,7 +2,9 @@
 
 This repo documents my approach to leading AI transformation inside organisations. It is structured across five pillars that I have found to be the load-bearing walls of any serious transformation: **Strategy, Data, Governance, Enablement, and Tools**.
 
-Each section contains the frameworks I actually use and a practical guide on how to apply them. Change management is not a separate workstream here — it is embedded in how every pillar is executed. Technology without behaviour change is just expensive software.
+Each section contains the frameworks I actually use and a practical guide on how to apply them. Change management is not a separate workstream here - it is embedded in how every pillar is executed. 
+
+Technology without behaviour change is just expensive software.
 
 ---
 
