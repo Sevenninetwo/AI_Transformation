@@ -26,7 +26,7 @@ Score each dimension on a 1 to 4 scale per use case. Any use case with a critica
 
 ## Framework 2: The AI Data Flywheel
 
-A structural model for how AI programmes should compound over time. The flywheel breaks when organisations treat data as a project input rather than a continuous asset.
+A structural model for how AI programs should compound over time. The flywheel breaks when organisations treat data as a project input rather than a continuous asset.
 
 ![AI Data Flywheel](./flywheel.svg)
 
