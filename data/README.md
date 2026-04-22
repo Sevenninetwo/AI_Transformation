@@ -28,28 +28,7 @@ Score each dimension on a 1 to 4 scale per use case. Any use case with a critica
 
 A structural model for how AI programmes should compound over time. The flywheel breaks when organisations treat data as a project input rather than a continuous asset.
 
-<p align="center">
-  <svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
-    <rect x="10" y="75" width="120" height="50" rx="8" fill="#d4edda" stroke="#28a745" stroke-width="1.5"/>
-    <text x="70" y="105" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold">Better Data</text>
-    <rect x="190" y="75" width="120" height="50" rx="8" fill="#cce5ff" stroke="#004085" stroke-width="1.5"/>
-    <text x="250" y="105" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold">Better Models</text>
-    <rect x="370" y="75" width="120" height="50" rx="8" fill="#fff3cd" stroke="#856404" stroke-width="1.5"/>
-    <text x="430" y="105" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold">Better Decisions</text>
-    <line x1="130" y1="100" x2="188" y2="100" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
-    <line x1="310" y1="100" x2="368" y2="100" stroke="#333" stroke-width="1.5" marker-end="url(#arrow)"/>
-    <path d="M 430 125 Q 430 170 250 170 Q 70 170 70 125" fill="none" stroke="#f8d7da" stroke-width="2" stroke-dasharray="6,3" marker-end="url(#arrow2)"/>
-    <text x="250" y="165" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#555">Feedback and Iteration</text>
-    <defs>
-      <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-        <path d="M0,0 L0,6 L8,3 z" fill="#333"/>
-      </marker>
-      <marker id="arrow2" markerWidth="8" markerHeight="8" refX="2" refY="3" orient="auto">
-        <path d="M8,0 L8,6 L0,3 z" fill="#333"/>
-      </marker>
-    </defs>
-  </svg>
-</p>
+![AI Data Flywheel](./flywheel.svg)
 
 Each cycle of use generates new signal — user behaviour, model errors, edge cases — that feeds back into improving the data and the model. Organisations that build feedback capture into their AI systems from day one compound faster than those that treat deployment as the finish line.
 
