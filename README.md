@@ -8,7 +8,7 @@ Technology without behaviour change is just expensive software.
 
 ---
 
-## Pillars
+## Key Strategic Pillars
 
 | Pillar | Focus |
 |---|---|
