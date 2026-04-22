@@ -20,7 +20,7 @@ Technology without behaviour change is just expensive software.
 
 ---
 
-## The Change Management Thread
+## Change Management Reflections 
 
 AI transformation fails more often at the people layer than the technology layer. I have seen organisations deploy sophisticated models into workflows where nobody trusts them, nobody was consulted, and nobody knows what to do when they produce a wrong output.
 
