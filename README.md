@@ -28,11 +28,11 @@ The frameworks across these five pillars are shaped by a core principle from cha
 
 Two models I return to consistently:
 
-**ADKAR** (Prosci) — ensures individuals move through Awareness, Desire, Knowledge, Ability, and Reinforcement. Most AI programmes stall at Knowledge. They train people but never build the Ability or Reinforcement to make new behaviours stick.
+**ADKAR** (Prosci) — ensures individuals move through Awareness, Desire, Knowledge, Ability, and Reinforcement. Most AI programs stall at Knowledge. They train people but never build the Ability or Reinforcement to make new behaviours stick. Remember that workshop you attended for half a day with no follow-up afterwards? That is what I am talking about. 
 
-**Kotter's 8-Step Model** — particularly useful for the early phases. Creating urgency, building a guiding coalition, and anchoring change in culture are not soft activities. They are the structural conditions that determine whether an AI programme scales or stagnates.
+**Kotter's 8-Step Model** — particularly useful for the early phases. Creating urgency, building a guiding coalition, and anchoring change in culture are not soft activities. They are the structural conditions that determine whether an AI programme scales or stagnates. It's mandatory. 
 
-Every pillar section references where these principles apply in practice.
+Every pillar section references where these principles apply in practice. 
 
 ---
 
