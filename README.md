@@ -48,4 +48,4 @@ The companies that get this right do not just implement AI. They build the inter
 
 ---
 
-*Maintained by Francis Foo — Senior AI Transformation Leader*
+*Maintained by Francis Foo — AI Transformation Leader*
