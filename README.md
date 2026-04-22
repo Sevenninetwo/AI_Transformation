@@ -38,7 +38,7 @@ Every pillar section references where these principles apply in practice.
 
 ## A Note on AI Playbooks
 
-There is no universal AI playbook. Any consultant or vendor who hands you one should be treated with scepticism.
+I don't believe in a universal AI playbook. Any consultant or vendor who hands you one should be treated with skepticism.
 
 Every company carries a different legacy: a different data estate, a different culture, a different risk appetite, a different competitive clock speed. What works at a 10,000-person financial institution will not translate cleanly to a 200-person SaaS company. The frameworks here are starting points, not scripts.
 
