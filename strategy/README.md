@@ -10,16 +10,23 @@ Change management starts here. Before a single use case is prioritised, there ne
 
 A 2x2 that maps potential AI use cases against two axes: **business impact** (revenue, cost, risk, or customer experience) and **feasibility** (data readiness, technical complexity, change complexity).
 
-\`\`\`mermaid
-quadrantChart
-    title AI Opportunity Matrix
-    x-axis Low Feasibility --> High Feasibility
-    y-axis Low Impact --> High Impact
-    quadrant-1 Strategic Bets
-    quadrant-2 Quick Wins
-    quadrant-3 Long Game
-    quadrant-4 Deprioritise
-\`\`\`
+<table>
+  <tr>
+    <td width="120"></td>
+    <td align="center" width="280"><strong>High Feasibility</strong></td>
+    <td align="center" width="280"><strong>Low Feasibility</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>High Impact</strong></td>
+    <td align="center" bgcolor="#d4edda"><strong>Quick Wins</strong><br/>Start here — visible results build momentum</td>
+    <td align="center" bgcolor="#cce5ff"><strong>Strategic Bets</strong><br/>Plan, resource, and sequence carefully</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Low Impact</strong></td>
+    <td align="center" bgcolor="#fff3cd"><strong>Deprioritise</strong><br/>Easy but low return — avoid distraction</td>
+    <td align="center" bgcolor="#f8d7da"><strong>Long Game</strong><br/>Monitor only until conditions change</td>
+  </tr>
+</table>
 
 The matrix forces an honest conversation. Most organisations want to start with their most ambitious use case. That is usually the wrong move — the change complexity alone will drain momentum before the technology gets a fair trial.
 
